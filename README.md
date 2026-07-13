@@ -212,8 +212,8 @@ credit_risk/
 ## 👤 Author
 
 - **Akshaykumar** - *AI/ML Engineer*
-  - GitHub: [@your-username](https://github.com/your-username)
-  - LinkedIn: [Your Name](https://linkedin.com/in/your-username)
+  - GitHub: [@akshaykumar-06](https://github.com/akshay-kumar-06/)
+  - LinkedIn: [AKSHAYKUMAR](https://www.linkedin.com/in/akshaykumar006)
 
 ---
 
